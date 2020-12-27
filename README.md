@@ -23,9 +23,9 @@
 
 ![](https://img.shields.io/badge/-SpringBoot-000?style=flat&logo=spring)
 ![](https://img.shields.io/badge/-Pytorch-000?style=flat&logo=pytorch)
-![](https://img.shields.io/badge/-Nodejs-000?style=flat&logo=nodejs)
+![](https://img.shields.io/badge/-Nodejs-000?style=flat&logo=node-dot-js)
 ![](https://img.shields.io/badge/-Reactjs-000?style=flat&logo=react)
-![](https://img.shields.io/badge/-Reactjs-000?style=flat&logo=nextjs)
+![](https://img.shields.io/badge/-Nextjs-000?style=flat&logo=next-dot-js)
 ![](https://img.shields.io/badge/-Laravel-000?style=flat&logo=laravel)
 ![](https://img.shields.io/badge/-Ruby-on-Rails-000?style=flat&logo=rubyonrails)
 ![](https://img.shields.io/badge/-Mysql-000?style=flat&logo=mysql)
