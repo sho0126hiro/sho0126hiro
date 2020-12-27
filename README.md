@@ -6,6 +6,10 @@
 
 ![](https://komarev.com/ghpvc/?username=sho0126hiro&color=green)
 
+# Skills
+C, Java, Python, Kotlin, HTML, CSS, JavaScript, Nodejs, TypeScript, PHP, Springboot, ReactJS, Laravel, ReactNative, MySQL, Docker, Firebase,
+
+[![](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis)]
 
 <!--
 **sho0126hiro/sho0126hiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
