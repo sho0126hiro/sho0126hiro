@@ -34,7 +34,7 @@ C, Java, Python, Kotlin, HTML, CSS, JavaScript, Nodejs, TypeScript, PHP, Springb
 ![](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)
 ![](https://img.shields.io/badge/-Heroku-000?style=flat&logo=heroku)
 ![](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
-![](https://img.shields.io/badge/-Elasticsearch-000?style=flat&logo=elasticesarch)
+![](https://img.shields.io/badge/-Elasticsearch-000?style=flat&logo=elasticsearch)
 
 <!--
 **sho0126hiro/sho0126hiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
