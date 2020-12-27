@@ -7,7 +7,6 @@
 ![](https://komarev.com/ghpvc/?username=sho0126hiro&color=green)
 
 # Skills
-C, Java, Python, Kotlin, HTML, CSS, JavaScript, Nodejs, TypeScript, PHP, Springboot, ReactJS, Laravel, ReactNative, MySQL, Docker, Firebase,
 
 ![](https://img.shields.io/badge/-C-000?style=flat&logo=c)
 ![](https://img.shields.io/badge/-C++-000?style=flat&logo=cplusplus)
