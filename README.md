@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/-Typescirpt-000?style=flat&logo=typescript)
 ![](https://img.shields.io/badge/-PHP-000?style=flat&logo=php)
 ![](https://img.shields.io/badge/-Go-000?style=flat&logo=go)
-![](https://img.shields.io/badge/-Ruby-on-Rails-000?style=flat&logo=ruby)
+![](https://img.shields.io/badge/-Ruby-000?style=flat&logo=ruby)
 
 ![](https://img.shields.io/badge/-SpringBoot-000?style=flat&logo=spring)
 ![](https://img.shields.io/badge/-Pytorch-000?style=flat&logo=pytorch)
@@ -27,7 +27,7 @@
 ![](https://img.shields.io/badge/-Reactjs-000?style=flat&logo=react)
 ![](https://img.shields.io/badge/-Nextjs-000?style=flat&logo=next-dot-js)
 ![](https://img.shields.io/badge/-Laravel-000?style=flat&logo=laravel)
-![](https://img.shields.io/badge/-Ruby-on-Rails-000?style=flat&logo=rubyonrails)
+![](https://img.shields.io/badge/-Ruby-on-Rails-000?style=flat&logo=ruby-on-rails)
 ![](https://img.shields.io/badge/-Mysql-000?style=flat&logo=mysql)
 
 ![](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)
