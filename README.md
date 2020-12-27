@@ -10,7 +10,7 @@
 C, Java, Python, Kotlin, HTML, CSS, JavaScript, Nodejs, TypeScript, PHP, Springboot, ReactJS, Laravel, ReactNative, MySQL, Docker, Firebase,
 
 ![](https://img.shields.io/badge/-C-000?style=flat&logo=c)
-![](https://img.shields.io/badge/-C++-000?style=flat&logo=c++)
+![](https://img.shields.io/badge/-C++-000?style=flat&logo=cplusplus)
 ![](https://img.shields.io/badge/-Java-000?style=flat&logo=java)
 ![](https://img.shields.io/badge/-Kotlin-000?style=flat&logo=kotlin)
 ![](https://img.shields.io/badge/-SpringBoot-000?style=flat&logo=spring)
