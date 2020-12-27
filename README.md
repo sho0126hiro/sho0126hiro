@@ -9,7 +9,30 @@
 # Skills
 C, Java, Python, Kotlin, HTML, CSS, JavaScript, Nodejs, TypeScript, PHP, Springboot, ReactJS, Laravel, ReactNative, MySQL, Docker, Firebase,
 
-[![](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis)]
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=c)
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=c++)
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=java)
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=kotlin)
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=spring)
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=python)
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=pytorch)
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=html5)
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=css3)
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=javascript)
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=nodejs)
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=reactjs)
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=typescript)
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=php)
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=laravel)
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=docker)
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=go)
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=rubyonrails)
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=mysql)
+
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=firebase)
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=heroku)
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=docker)
+![](https://img.shields.io/badge/-Redis-000?style=flat&logo=elasticesarch)
 
 <!--
 **sho0126hiro/sho0126hiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
