@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sho0126hiro)](https://github.com/anuraghazra/github-readme-stats)
+[![Sho Hirose's GitHub stats](https://github-readme-stats.vercel.app/api?username=sho0126hiro)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sho0126hiro&title=MultiLanguage,Commit,Issues,PullRequest,Repositories&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
