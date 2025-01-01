@@ -1,149 +1,42 @@
-# Hi there :wave:
+### Hi there :wave:
 
-[![Sho Hirose's GitHub stats](https://github-readme-stats.vercel.app/api?username=sho0126hiro)](https://github.com/anuraghazra/github-readme-stats)
+I’m Sho Hirose, a software engineer at Money Forward, Inc.  
+I am deeply motivated by solving problems and overcoming challenges, whether they relate to products or organizations. I also find great joy in making those around me happy through my work, and this drive fuels my day-to-day contributions as an engineer.  
+Over the years, I have worked on the development and maintenance of multiple microservices, as well as tackling organizational challenges by combining the roles of Scrum Master and developer. Currently, I lead the development of a product related to final tax returns, focusing on both project management and development.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sho0126hiro&title=MultiLanguage,Commit,Issues,PullRequest,Repositories&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+### Skills 🧰
 
-![](https://komarev.com/ghpvc/?username=sho0126hiro&color=green)
+#### Professional Experiences
 
-# Skills
+- **Languages**: Go, Ruby, Typescript
+- **Frameworks**: React.js, Next.js, Ruby on Rails 
+- **Infrastructures, Middlewares**: MySQL, Redis, terraform, docker, k8s, AWS, GCP
+- **Communication interfaces or protocols**: Openapi, GraphQL, gRPC, Message Broker
 
-<p>
-	<a href="https://www.cprogramming.com/" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="38" height="38" />
-	</a>
-	<a href="https://www.w3schools.com/cpp/" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="38" height="38" />
-	</a>
-	<a href="https://www.java.com" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="38" height="38" />
-	</a>
-	<a href="https://kotlinlang.org" target="_blank">
-	<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="38" height="38" />
-	</a>
-	<a href="https://www.python.org" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38" />
-	</a>
-	<a href="https://www.w3.org/html/" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="38" height="38" />
-	</a>
-	<a href="https://www.w3schools.com/css/" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="38" height="38" />
-	</a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38" />
-	</a>
-	<a href="https://www.typescriptlang.org/" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="38" height="38" />
-	</a>
-	<a href="https://golang.org" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="38" height="38" />
-	</a>
-	<a href="https://rubyonrails.org" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="38" height="38" />
-	</a>
-	<a href="https://www.php.net" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="38" height="38" />
-	</a>
-	<a href="https://reactnative.dev/" target="_blank">
-	<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="38" height="38" />
-	</a>
-</p>
-<p>
-	<a href="https://spring.io/" target="_blank">
-	<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="38" height="38" />
-	</a>
-	<a href="https://fastapi.tiangolo.com" target="_blank">
-	<img src="https://pbs.twimg.com/profile_images/1417542931209199621/fWMEIB5j_400x400.jpg" alt="mysql" width="38" height="38" />
-	</a>
-	<a href="https://www.tensorflow.org" target="_blank">
-	<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="38" height="38" />
-	</a>
-	<a href="https://pytorch.org/" target="_blank">
-	<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="38" height="38" />
-	</a>
-	<a href="https://opencv.org/" target="_blank">
-	<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="38" height="38" />
-	</a>
-    <a href="https://rubyonrails.org" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="38" height="38" />
-	</a>
-	<a href="https://nodejs.org" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="38" height="38" />
-	</a>
-	<a href="https://reactjs.org/" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="38" height="38" />
-	</a>
-	<a href="https://redux.js.org" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="38" height="38" />
-	</a>
-	<a href="https://nextjs.org" target="_blank">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="vuetify" width="38" height="38" />
-	</a>
-	<a href="https://vuejs.org/" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="38" height="38" />
-	</a>
-	<a href="https://expressjs.com" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="38" height="38" />
-	</a>
-	<a href="https://tailwindcss.com/" target="_blank">
-	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="38" height="38" />
-	</a>
-</p>
-<p>
-	<a href="https://www.mysql.com/" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="38" height="38" />
-	</a>
-	<a href="https://www.postgresql.org" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="38" height="38" />
-	</a>
-	<a href="https://redis.io" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="38" height="38" />
-	</a>
-	<a href="https://www.docker.com/" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="38" height="38" />
-	</a>
-	<a href="https://www.elastic.co" target="_blank">
-	<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="38" height="38" />
-	</a>
-    <a href="https://www.openapis.org" target="_blank">
-	<img src="https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/OpenAPI-Specification-Logo-300x300.png" alt="elasticsearch" width="38" height="38" />
-	</a>
-</p>
-<p>
-	<a href="https://firebase.google.com/" target="_blank">
-	<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="38" height="38" />
-	</a>
-	<a href="https://heroku.com" target="_blank">
-	<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="38" height="38" />
-	</a>
-	<a href="https://aws.amazon.com" target="_blank">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="38" height="38" />
-	</a>
-	<a href="https://cloud.google.com" target="_blank">
-	<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="38" height="38" />
-	</a>
-	<a href="https://azure.microsoft.com/en-in/" target="_blank">
-	<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="38" height="38" />
-	</a>
-	<a href="https://circleci.com" target="_blank">
-	<img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="38" height="38" />
-	<a href="https://travis-ci.org" target="_blank">
-	<img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="38" height="38" />
-	</a>
-</p>
+#### Experiences on Short-term Internship, Personal or Achademic Projects
 
-<!--
-**sho0126hiro/sho0126hiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Languages**: C, C++, Java, Kotlin, Python, PHP
+- **Frameworks**: Spring Boot, Django, Flask, FastAPI, Vue.js, Tesorflow, PyTorch
+- **Infrastructures, Middlewares**: Elasticsearch, DynamoDB, Firebase, Heroku
 
-Here are some ideas to get you started:
+### Work experiences 🌏
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### (2023.12 - Now) Development of product related to final tax return
+
+I am leading the development of a product designed to assist with final tax return submissions. My role involves collaborating with Product Managers, designers, and tax professionals to navigate the complex domain and define functional and non-functional requirements.  
+I guide projects from the initial planning stages through to development and management, ensuring that solutions align with the product roadmap. With experience in managing projects of varying scales, from a few person-months to several dozen, I focus on backend development while also contributing as a full-stack developer, driving the resolution of both technical and product challenges across the team.
+
+#### (2021.12 - 2023.12) Developmenmt on microservices for accounting service
+
+I contributed to the design, development, and operation of microservices for an accounting service, including authentication service, asynchronous processing using messaging, and providing master data services for multiple products.   
+In my roles as Scrum Master and Project Lead, I gained hands-on experience in managing projects of several person-months in scale.  
+As Scrum Master, contributed to the company’s Scrum Master evaluation system by participating in the creation team, providing bottom-up feedback, and contributing to discussions and improvements.
+
+#### (2021.04 - 2021.11) Development of Microservice for Email Content Analysis
+
+
+I developed a service to analyze email content and make it accessible to multiple products as an internship student. My primary focus was on creating tools to effectively increase the scope of email content that could be analyzed.
+
+#### Up to Apr 2021
+
+Before joining my current company, I worked as a developer in multiple short-term and long-term internships, including a Proof of Concept for a PDF text searching service. Through these and other short/long-term internships, personal projects, and student projects, I gained experience in both web frontend and backend development.
