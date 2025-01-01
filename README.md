@@ -16,7 +16,7 @@ Over the years, I have worked on the development and maintenance of multiple mic
 #### Experiences on Short-term Internship, Personal or Achademic Projects
 
 - **Languages**: C, C++, Java, Kotlin, Python, PHP
-- **Frameworks**: Spring Boot, Django, Flask, FastAPI, Vue.js, Tesorflow, PyTorch
+- **Frameworks**: Spring, Django, Flask, FastAPI, Vue.js, Tesorflow, PyTorch
 - **Infrastructures, Middlewares**: Elasticsearch, DynamoDB, Firebase, Heroku
 
 ### Work experiences 🌏
