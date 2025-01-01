@@ -19,7 +19,7 @@ Over the years, I have worked on the development and maintenance of multiple mic
 - **Frameworks**: Spring, Django, Flask, FastAPI, Vue.js, Tesorflow, PyTorch
 - **Infrastructures, Middlewares**: Elasticsearch, DynamoDB, Firebase, Heroku
 
-### Work experiences 🌏
+### Work Experiences 🌏
 
 #### (2023.12 - Now) Development of product related to final tax return
 
